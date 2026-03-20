@@ -45,7 +45,7 @@ export default function Contact() {
 
             <div className={styles.methods}>
               <a
-                href="mailto:hello@tjcloud.dev"
+                href="mailto:tjgjsj@gmail.com"
                 className={`glass-card ${styles.methodCard}`}
               >
                 <div className={styles.methodIcon}>✉️</div>
